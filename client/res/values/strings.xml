@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">云剪贴板</string>
+    <string name="action_settings">剪贴板</string>
+    <string name="tips">请输入信息！</string>
+</resources>
